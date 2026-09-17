@@ -1,0 +1,43 @@
+{
+    "configs": [
+        {
+            "id": "org.yausername.dvd",
+            "url": "https://github.com/yausername/dvd",
+            "author": "yausername",
+            "name": "dvd",
+            "altLabel": "armeabi-v7a",
+            "additionalSettings": "{\"includePrereleases\":true,\"apkFilterRegEx\":\"armeabi-v7a\"}"
+        },
+        {
+            "id": "org.yausername.dvd",
+            "url": "https://github.com/yausername/dvd",
+            "author": "yausername",
+            "name": "dvd",
+            "altLabel": "arm64-v8a",
+            "additionalSettings": "{\"includePrereleases\":true,\"apkFilterRegEx\":\"arm64-v8a\"}"
+        },
+        {
+            "id": "org.yausername.dvd",
+            "url": "https://github.com/yausername/dvd",
+            "author": "yausername",
+            "name": "dvd",
+            "altLabel": "x86",
+            "additionalSettings": "{\"includePrereleases\":true,\"apkFilterRegEx\":\"x86\"}"
+        },
+        {
+            "id": "org.yausername.dvd",
+            "url": "https://github.com/yausername/dvd",
+            "author": "yausername",
+            "name": "dvd",
+            "altLabel": "x86_64",
+            "additionalSettings": "{\"includePrereleases\":true,\"apkFilterRegEx\":\"x86_64\"}"
+        }
+    ],
+    "icon": "https://f-droid.org/repo/org.yausername.dvd/en-US/icon.png",
+    "categories": [
+        "downloader_and_manager"
+    ],
+    "description": {
+        "en": "Download videos from anywhere"
+    }
+}
