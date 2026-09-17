@@ -1,0 +1,19 @@
+{
+    "configs": [
+        {
+            "id": "app.lawnchair.nightly",
+            "url": "https://github.com/LawnchairLauncher/lawnchair",
+            "author": "Lawnchair Launcher",
+            "name": "Lawnchair Nightly",
+            "additionalSettings": "{\"includePrereleases\":true,\"filterReleaseTitlesByRegEx\":\"Lawnchair.Nightly\",\"releaseDateAsVersion\":true}"
+        }
+    ],
+    "icon": "https://lawnchair.app/images/lawnchair.png",
+    "apkVerificationLocation": "https://docs.lawnchair.app/getting-started/install-and-setup/verify#github-version",
+    "categories": [
+        "launcher_and_desktop"
+    ],
+    "description": {
+        "en": "[Debug version] Lawnchair is a free, open-source home app for Android."
+    }
+}
