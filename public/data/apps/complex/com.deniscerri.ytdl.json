@@ -3,7 +3,7 @@
         {
             "id": "com.deniscerri.ytdl",
             "url": "https://github.com/deniscerri/ytdlnis",
-            "author": "	deniscerri",
+            "author": "deniscerri",
             "name": "YTDLnis",
             "altLabel": "universal (GitHub)",
             "additionalSettings": "{\"apkFilterRegEx\":\"universal-github\"}"
